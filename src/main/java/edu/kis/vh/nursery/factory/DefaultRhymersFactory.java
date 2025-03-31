@@ -5,6 +5,7 @@ import edu.kis.vh.nursery.FIFORhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
+//Usunięcie 'public'
 public class DefaultRhymersFactory implements Rhymersfactory {
 
     @Override
