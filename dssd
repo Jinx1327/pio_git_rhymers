@@ -1,0 +1,27 @@
+[33m0fd2c2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #4 from Jinx1327/rownolegle
+[33m3d39b1f[m[33m ([m[1;31morigin/rownolegle[m[33m)[m 11.1. Hermetyzacja nieprywatnych atrybutów klasy Node
+[33m5fe7698[m 11. Hermetyzacja nieprywatnych atrybutów klasy IntLinkedList
+[33m2f9b82e[m 10. Wygenerowanie gettera dla pola total w klasie DefaultCountingOutRhymer
+[33m952f29b[m 9. Zmiana modyfikatorow public na private
+[33m04894f7[m Merge pull request #3 from Jinx1327/constants
+[33ma227720[m[33m ([m[1;31morigin/constants[m[33m)[m 7 Dodanie modyfikatora final dla atrybutu value z klasy Node
+[33mceb2741[m 6 Poprawa nazw stałych na bardziej zrozumiałe
+[33me9d67ee[m 8 Użycie adnotacji @Override dla metody countIn
+[33mae88a76[m Usunięcie niepotrzebnych modyfikacji dla klasy HanoiRhymer
+[33m3ac98e8[m 7 Ustawienie modyfikatorów final przy niemutowalnych atrybutach klas
+[33m9ee31e3[m 6 Zastępowanie cyfr literałami
+[33mc0933ae[m 5.3. Scalanie class-method-naming
+[33m3d6a461[m 5.2. Scalanie fields-naming
+[33m42cba69[m[33m ([m[1;31morigin/fields-naming[m[33m)[m 5. Poprawa nazw pól
+[33m37532f9[m Konflikt
+[33m2f84029[m Proba
+[33m807efaf[m Blad
+[33m4b93be8[m 4.2 Poprawa nazw metod
+[33me14d824[m 4.1 Poprawa nazw klas
+[33mffca190[m 3. Scalanie format z poprawkami (rozwiązano konflikt)
+[33mf4eefcd[m 2. Naprawienie formatowania HanoiRhymer
+[33mef9aa5e[m 1. Dodanie .gitignore
+[33m0304ae5[m Update README.md
+[33m9b428d2[m zmiana konwencji formatowania (spacje zamiast tabulacji)
+[33m81cb2e5[m Poprawka README.md
+[33m19ebefe[m Initial commit
