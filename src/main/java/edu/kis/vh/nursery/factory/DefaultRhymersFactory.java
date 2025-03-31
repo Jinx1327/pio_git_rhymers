@@ -6,7 +6,7 @@ import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
 //Usunięcie 'public'
-class DefaultRhymersFactory implements Rhymersfactory {
+public class DefaultRhymersFactory implements Rhymersfactory {
 
     @Override
     public defaultCountingOutRhymer GetStandardRhymer() {
