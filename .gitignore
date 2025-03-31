@@ -1,0 +1,62 @@
+# ---------------------------
+# Папки, згенеровані IDE та інструментами
+# ---------------------------
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Maven
+target/
+**/target/
+
+# NetBeans
+nbproject/
+
+
+# ---------------------------
+# Системні та тимчасові файли
+# ---------------------------
+.DS_Store         # macOS
+Thumbs.db         # Windows
+*.log             # Логи
+*.tmp             # Тимчасові файли
+*.swp             # Vim swap files
+
+
+# ---------------------------
+# Бінарні та компільовані файли
+# ---------------------------
+*.class           # Компільовані класи Java
+*.jar             # Архіви Java
+*.war             # Веб-архіви
+*.ear             # Enterprise архіви
+*.nar             # Maven специфічні архіви
+
+
+# ---------------------------
+# Виключення для Maven та Gradle
+# ---------------------------
+# Maven локи
+dependency-reduced-pom.xml
+maven-*.xml
+build.log
+
+# Gradle
+.gradle/
+build/
+
+
+# ---------------------------
+# Інші
+# ---------------------------
+# Файли конфігурації VSCode
+.vscode/dafiupoefjs
