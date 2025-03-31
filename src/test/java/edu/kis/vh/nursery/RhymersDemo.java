@@ -7,6 +7,7 @@ import edu.kis.vh.nursery.factory.Rhymersfactory;
 
 class RhymersDemo {
 
+	// TODO: Refaktoryzacja - metoda przekracza 20 linii
     public static void main(String[] args) {
         Rhymersfactory factory = new DefaultRhymersFactory();
         
